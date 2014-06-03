@@ -27,7 +27,7 @@ fs.readFile('./QuickPhrase.mb', 'utf8', function(err, data) {
 		
 	});
 	
-	fs.writeFile('./Google_Emoji_Dict.dict', google_dict, function(err) {
+	fs.writeFile('./Google_Emoji_Dict.dic', google_dict, function(err) {
 		
 		if (err) throw err;
 				 
