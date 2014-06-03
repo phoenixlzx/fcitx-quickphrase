@@ -1,5 +1,6 @@
 /*
 * Convert fcitx QuickPhrase to Google Pinyin Dict file.
+* Pity its not usable due to #Google你个大SB
 * Phoenix Nemo <i@phoenixlzx.com> | License MIT
 **/
 
